@@ -1,3 +1,12 @@
+/*
+ * Copyright (C) 2015 - 2016 Master in High Performance Computing
+ *
+ * Adapted from the net by  Giuseppe Brandino. 
+ * Last modified by Alberto Sartori. 
+ * Addedd time and promoted to long long all important variables
+ */
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
